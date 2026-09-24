@@ -1,4 +1,8 @@
 ---
+genres:
+  - management
+  - simulation
+  - casual
 directors_cut: https://loganpb.github.io/js13kgames-typing-idea/
 post: https://github.com/LoganPB/js13kgames-typing-idea/blob/main/POST_MORTEM.md
 # See github.com/js13kGames/hello-world for supported frontmatter
